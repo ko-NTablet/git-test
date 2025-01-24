@@ -1,11 +1,2 @@
-* 빨강
-  * 녹색
-    * 파랑
-
-+ 빨강
-  + 녹색
-    + 파랑
-
-- 빨강
-  - 녹색
-    - 파랑
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
